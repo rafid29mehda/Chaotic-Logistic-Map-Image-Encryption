@@ -56,7 +56,7 @@ The project implements a chaotic logistic map-based encryption and decryption sy
    streamlit run app.py
    ```
 2. Upload an image using the file uploader.
-3. Select an encryption key (seed) using the slider.
+3. Select an encryption key (seed) using slider.
 4. Click **Encrypt Image** to encrypt the uploaded image.
 5. Download the encrypted image using the provided download button.
 6. Click **Decrypt Image** to reverse the encryption and view the original image.
