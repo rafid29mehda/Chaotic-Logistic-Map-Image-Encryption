@@ -1,4 +1,4 @@
-### Chaotic Logistic Map Image Encryption and Decryption
+## Chaotic Logistic Map Image Encryption and Decryption
 
 The project implements a chaotic logistic map-based encryption and decryption system for images. The system encrypts an image by applying XOR-based pixel manipulation combined with pixel shuffling, all driven by a chaotic sequence generated from the logistic map. The encryption ensures high security and obscures the original image, while the decryption process reliably restores the original image when provided with the correct key.
 
